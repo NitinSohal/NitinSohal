@@ -5,10 +5,10 @@ Hi there! 👋<br><br>I'm Nitin Sohal, a passionate software developer who loves
   <img src="https://profile-counter.glitch.me/NitinSohal/count.svg?"  />
 </div>
 
-<img align="right" height="150" src="https://github.com/NitinSohal/NitinSohal/assets/78746703/56a695e1-4c18-4a01-90bf-a12e24d5005c"  />
+<img align="right" height="200" src="https://github.com/NitinSohal/NitinSohal/assets/78746703/56a695e1-4c18-4a01-90bf-a12e24d5005c"  />
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nitinsohal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_nitin_sohal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-sohal-262547202) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/EngineeringOutside19) 
 
 # 💻 Tech Stack:
