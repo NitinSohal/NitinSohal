@@ -5,7 +5,7 @@ Hi there! 👋<br><br>I'm Nitin Sohal, a passionate software developer who loves
   <img src="https://profile-counter.glitch.me/NitinSohal/count.svg?"  />
 </div>
 
-<img align="right" height="200" src="https://github.com/NitinSohal/NitinSohal/assets/78746703/56a695e1-4c18-4a01-90bf-a12e24d5005c"  />
+<img align="right" height="150" src="https://github.com/NitinSohal/NitinSohal/assets/78746703/56a695e1-4c18-4a01-90bf-a12e24d5005c"  />
 
 
 # 🌐 Socials:
