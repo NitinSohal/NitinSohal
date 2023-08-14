@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br><br>I'm Nitin Sohal, a passionate software developer who loves coding and problem-solving. Welcome to my GitHub!<br><br>- 🌱 I’m exploring various technologies and frameworks to expand my knowledge.<br>- 🔭 I’m currently working on Problem-Solving.<br>- 👯 I’m looking to collaborate on open-source projects that positively impact the community.<br>- 💬 Ask me about Web Development And Graphic Designing.<br>- 📫 How to reach me: Mail@nitin19sohal@gmail.com.<br>- 😄 Pronouns: He/Him.<br>- ⚡ Fun fact: Gamers don't die they Respawn.
+Hi there! 👋<br><br>I'm Nitin Sohal, a passionate software developer who loves coding and problem-solving. Welcome to my GitHub!<br><br>- 🌱 I’m exploring various technologies and frameworks to expand my knowledge.<br>- 🔭 I’m currently working on Problem-Solving.<br>- 👯 I’m looking to collaborate on open-source projects that positively impact the community.<br>- 💬 Ask me about Web Development, Graphic Designing and Problem-Solving.<br>- 📫 How to reach me: Mail@nitin19sohal@gmail.com.<br>- 😄 Pronouns: He/Him.<br>- ⚡ Fun fact: Gamers don't die they Respawn.
 <br/>
 <div align="left">
   <img src="https://profile-counter.glitch.me/NitinSohal/count.svg?"  />
