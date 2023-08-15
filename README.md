@@ -1,5 +1,15 @@
-# 💫 About Me:
-Hi there! 👋<br><br>I'm Nitin Sohal, a passionate software developer who loves coding and problem-solving. Welcome to my GitHub!<br><br>- 🌱 I’m exploring various technologies and frameworks to expand my knowledge.<br>- 🔭 I’m currently working on Problem-Solving.<br>- 👯 I’m looking to collaborate on open-source projects that positively impact the community.<br>- 💬 Ask me about Web Development, Graphic Designing and Problem-Solving.<br>- 📫 How to reach me: Mail@nitin19sohal@gmail.com.<br>- 😄 Pronouns: He/Him.<br>- ⚡ Fun fact: Gamers don't die they Respawn.
+
+
+<img height="200" width="1000" src="https://github.com/NitinSohal/NitinSohal/assets/78746703/3e169118-6b38-488d-8d88-72547c194691"  />
+
+
+
+
+# 💫 Hi there! <img height="30" src="https://github.com/NitinSohal/NitinSohal/assets/78746703/e5861212-12cd-4a92-87b2-474698d40d99"  /> I'm [Nitin Sohal](https://nitin-sohal-portfolio.netlify.app/) . <img height="30" src="https://github.com/NitinSohal/NitinSohal/assets/78746703/bfa6d281-a692-4f37-8270-063815d2d502"  />
+
+A passionate software developer who loves coding, problem-solving, and graphic designing. I believe we can all develop, learn, and contribute. I have a strong desire to progress professionally and continually enhance my skills.<br><be>
+# Welcome to my GitHub!<img  height="30" src="https://github.com/NitinSohal/NitinSohal/assets/78746703/266abe4a-cbd4-48a1-8761-29cd7f363d0c"  />
+<be>- 🌱 I’m exploring various technologies and frameworks to expand my knowledge.<br>- 🔭 I’m currently working on Problem-Solving.<br>- 👯 I’m looking to collaborate on open-source projects that positively impact the community.<br>- 💬 Ask me about Web Development, Graphic Designing and Problem-Solving.<br>- 📫 How to reach me: Mail@nitin19sohal@gmail.com.<br>- 😄 Pronouns: He/Him.<br>- ⚡ Fun fact: Gamers don't die they Respawn.
 <br/>
 <div align="left">
   <img src="https://profile-counter.glitch.me/NitinSohal/count.svg?"  />
