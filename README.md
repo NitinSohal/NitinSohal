@@ -6,7 +6,7 @@
 A passionate software developer who loves coding, problem-solving, and graphic designing. I believe we can all develop, learn, and contribute. I have a strong desire to progress professionally and continually enhance my skills.<br><be>
 # Welcome to my GitHub!<img  height="30" src="https://github.com/NitinSohal/NitinSohal/assets/78746703/266abe4a-cbd4-48a1-8761-29cd7f363d0c"  />
 <img align="right" height="270" width="260" src="https://github.com/NitinSohal/NitinSohal/assets/78746703/56a695e1-4c18-4a01-90bf-a12e24d5005c"  />
-<be>- 🌱 I’m exploring various technologies and frameworks to expand my knowledge.<br>- 🔭 I’m currently working on Problem-Solving.<br>- 👯 I’m looking to collaborate on open-source projects that positively impact the community.<br>- 💬 Ask me about Web Development, Graphic Designing and Problem-Solving.<br>- 📫 How to reach me: Mail@nitin19sohal@gmail.com.<br>- 😄 Pronouns: He/Him.<br>- ⚡ Fun fact: Gamers don't die they Respawn.
+<be>- 🌱 I’m exploring various technologies and frameworks to expand my knowledge.<br>- 🔭 I’m currently working on Problem-Solving.<br>- 👯 I’m looking to collaborate on open-source projects that positively impact the community.<br>- 💬 Ask me about Web Development, Graphic Designing and Problem-Solving.<br>- 📫 How to reach me: Mail@nitin19sohal@gmail.com.<br>- 😄 Pronouns: He/Him.<br>- ⚡ Fun fact: Gamers don't die they Respawn.<br>
 <br/>
 <div align="left">
   <img src="https://profile-counter.glitch.me/NitinSohal/count.svg?"  />
