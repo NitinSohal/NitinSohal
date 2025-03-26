@@ -6,7 +6,7 @@
 A passionate software developer who loves coding, problem-solving, and graphic designing. I believe we can all develop, learn, and contribute. I have a strong desire to progress professionally and continually enhance my skills.<br><be>
 # Welcome to my GitHub!<img  height="30" src="https://github.com/NitinSohal/NitinSohal/assets/78746703/266abe4a-cbd4-48a1-8761-29cd7f363d0c"  />
 <img align="right" height="240" width="230" src="https://github.com/NitinSohal/NitinSohal/assets/78746703/56a695e1-4c18-4a01-90bf-a12e24d5005c"  />
-<be>- 🌱 I’m exploring various technologies and frameworks to expand my knowledge.<br>- 🔭 I’m currently working on Problem-Solving.<br>- 👯 I’m looking to collaborate on open-source projects that positively impact the community.<br>- 💬 Ask me about Web Development, Graphic Designing and Problem-Solving.<br>- 📫 How to reach me: Mail@nitin19sohal@gmail.com.<br>- 😄 Pronouns: He/Him.<br>- ⚡ Fun fact: Gamers don't die they Respawn.
+<be>- 🌱 I’m exploring various technologies and frameworks to expand my knowledge.<br>- 🔭 I’m currently working on Problem-Solving.<br>- 👯 I’m looking to collaborate on open-source projects that positively impact the community.<br>- 💬 Ask me about Web Development, Android/iOS Development, Graphic Designing and Problem-Solving.<br>- 📫 How to reach me: Mail@nitin19sohal@gmail.com.<br>- 😄 Pronouns: He/Him.<br>- ⚡ Fun fact: Gamers don't die they Respawn.
 <br/>
 <br>
 <div align="left">
@@ -16,7 +16,7 @@ A passionate software developer who loves coding, problem-solving, and graphic d
 
 
 # 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nitinsohal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_nitin_sohal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-sohal-262547202) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/EngineeringOutside19) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nitinsohal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_nitin_sohal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-sohal-262547202) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/EngineeringOutside19) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/NITIN_19/)
 
 # 💻 Tech Stack:
 
